@@ -1,0 +1,17 @@
+things checked: 
+1: frontend and backend logic work just fine 
+
+most imp thing: 
+1: code the logic for sharing with Twitter and LinkedIn and also for saving
+
+things have to be improved: 
+1: better UI for both the pages (/dashboard and /card)
+2: add icons for tech stacks 
+3: better form
+4: improve (Generate-Tech-Stack) button 
+5: improve the UI of the card (add glowing icons for tech-stack)
+
+
+better functionalities worth considering: 
+1: adding oAuth providers (Signin with GitHub and Google)
+2: supabase for authentication and storage 
